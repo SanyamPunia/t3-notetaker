@@ -4,7 +4,7 @@ A simple note taking application built using the [T3 tech stack](https://create.
 
 ## 👩‍💻 Contributors
 
-- [@aviralj02]("https://github.com/aviralj02")
+- [@aviralj02](https://github.com/aviralj02)
 
 ## 📷 Preview
 
